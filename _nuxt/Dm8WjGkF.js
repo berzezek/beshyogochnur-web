@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,a,t as c}from"./4DfHR1Dw.js";const n={},_={class:"page-loader"},r={class:"loader"};function d(e,i){return s(),t("div",_,[a("div",r,c(e.$t("loading")),1)])}const p=o(n,[["render",d]]);export{p as _};
